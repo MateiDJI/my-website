@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hobby Video Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hobby Video Project</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="video-container">
+        <iframe width="800" height="450" src="https://www.youtube.com/embed/o6x9Wn6s7ZA" frameborder="0" allowfullscreen></iframe>
+        <p>În acest captivant videoclip, membrii echipei noastre își prezintă pasiunile și hobby-urile care îi definesc în afara mediului profesional. Fiecare participant împărtășește cu privitorii o parte din lumea lor personală, dezvăluind ce îi motivează și îi inspiră în timpul liber. De la pictură la gătit, de la călătorii la cântat sau orice altceva între acestea, videoclipul aduce în prim-plan diversitatea și creativitatea din spatele fiecărui membru al echipei noastre. Este o oportunitate minunată de a ne cunoaște mai bine colegii și de a înțelege ce îi pasionează în afara muncii. Prin intermediul acestui videoclip, descoperim că pasiunile noastre personale contribuie la dezvoltarea noastră ca indivizi și la îmbogățirea experiențelor noastre colective. </p>
+    </section>
+</body>
+</html>

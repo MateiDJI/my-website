@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tinkercad CO2 Bike Holder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tinkercad CO2 Bike Holder</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="tinkercad-container">
+        <h2>3D Bike Holder Model</h2>
+        <img src="tinkercad.jpg" alt="Tinkercad Project" width="460" height="345">
+        <p>Acesta este un model 3D al inventiei mele. Un suport pentru biciclete pentru cartușe de CO2 + un tub camera de rezervă pentru roți de maximum 29 inch. Tuburile CO2 se înșurubeaza în filetul din partea de jos. Ca să se lege de bicicletă putem folosi niște benzi velcro. Pentru a securiza si camera, putem folosi o banda velcro mai lunga pentru a pune camera peste cartușele de CO2. Acest prototip se poate printa pe orice imprimantă cu fillament tip wire.
+Acest model a fost făcut de mine pe applicatia Tinkercad. Dacă doriți să descărcați modelul meu, o puteți face făcând clic pe textul de mai jos.</p>
+        <a href="https://www.tinkercad.com/things/9Dajs7Q4gqo-bike-holder?sharecode=KeQvjYkF-s8_1UoiWPAFtp8-Cb_k66ozBcXcs9lpPd8" class="download-link">Model 3D CO2 Bike Holder</a>
+    </section>
+</body>
+</html>
