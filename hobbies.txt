@@ -31,7 +31,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Matei Tataru</p>
+        <p>&copy; 2025 MateiDJI</p>
     </footer>
 </body>
 </html>
