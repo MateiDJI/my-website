@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEGO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>LEGO</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hobby-container">
+        <h2>Why I Love LEGO</h2>
+        <p>LEGO has been one of my favorite hobbies because it allows me to be creative, build amazing structures, and collect awesome sets. Whether it's **Technic**, **Star Wars**, or **modular buildings**, every set I build is a new experience.</p>
+
+        <h2>My LEGO Collection</h2>
+        <p>Here are some of my favorite LEGO sets I own:</p>
+        <ul>
+            <!-- Add your LEGO sets here -->
+            <li>Lego AT-TE™ Walker (75337)</li>
+            <li>Lego The Mandalorian's N1 Starfighter (75325)</li>
+            <li>Lego Spider Tank (75361)</li>
+            <li>Lego TECHNIC Rock Crawler (9398)</li>
+            <li>Lego 4x4 X-treme Off-Roader (42099)</li>
+            <li>Lego Remote-Controlled VOLVO L350F Wheel Loader (42030)</li>
+            <li>Lego 6x6 All Terrain Tow Truck</li>
+            <li>Lego High-speed Passenger Train (60197)</li>
+            <li>Lego Cargo Train (60198)</li>
+            <li>Lego City RC Train Heavy-Haul Train (60098)</li>
+            <li>Lego City Trains High-speed Passenger (60051)</li>
+            <li>Lego City Cargo Train (60052)</li>
+        </ul>
+
+        <h2>Gallery</h2>
+        <div class="lego-gallery">
+            <!-- Add your LEGO images here -->
+            <img src="lego1.jpg" alt="LEGO Set 1">
+            <img src="lego2.jpg" alt="LEGO Set 2">
+            <img src="lego3.jpg" alt="LEGO Set 3">
+            <img src="lego4.jpg" alt="LEGO Set 4">
+            <img src="lego5.jpg" alt="LEGO Set 5">
+            <img src="lego6.jpg" alt="LEGO Set 6">
+            <img src="lego7.jpg" alt="LEGO Set 7">
+            <img src="lego8.jpg" alt="LEGO Set 8">
+            <img src="lego9.jpg" alt="LEGO Set 9">
+            <img src="lego10.jpg" alt="LEGO Set 10">
+            <img src="lego11.jpg" alt="LEGO Set 11">
+            <img src="lego12.jpg" alt="LEGO Set 12">
+        </div>
+    </section>
+</body>
+</html>
