@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 /* 🔹 Video Background (Full Screen) */
 .video-background {
     position: fixed;
@@ -95,6 +96,7 @@ nav ul li a:hover {
 .hyperlink:hover {
     text-decoration: underline;
 }
+
 /* 🔹 Mobile Responsiveness */
 @media (max-width: 768px) {
     h1 {
@@ -110,4 +112,27 @@ nav ul li a:hover {
         width: 95%;
         height: 300px;
     }
+}
+
+/* 🔹 LEGO Gallery Styles */
+.lego-page .lego-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.lego-page .lego-gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.lego-page .lego-gallery img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
