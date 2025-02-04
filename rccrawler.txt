@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RC Crawling</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>RC Crawling</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hobby-container">
+        <h2>Why I Love RC Crawling</h2>
+        <p>RC crawling is one of my favorite hobbies because it combines **technical driving skills** with **outdoor adventure**. I love tackling rough terrains, customizing my crawler, and pushing its limits on different trails.</p>
+
+        <h2>My RC Crawler: Axial SCX24</h2>
+        <p>I currently drive the **Axial SCX24**, a **compact yet powerful** rock crawler. It’s perfect for both indoor and outdoor crawling, making it a great choice for enthusiasts who want a small-scale yet capable vehicle.</p>
+
+        <h2>RC Crawler Specifications</h2>
+        <ul>
+            <li>**1/24 scale** for portability</li>
+            <li>**4WD drivetrain** for superior traction</li>
+            <li>**Realistic chassis and suspension**</li>
+            <li>**Water-resistant electronics**</li>
+            <li>**Customizable with aftermarket parts**</li>
+        </ul>
+
+        <h2>Why I Chose the Axial SCX24</h2>
+        <p>Most people buy and prefer a **1/10 scale crawler**, as they are larger, more powerful, and handle outdoor terrains exceptionally well. However, I chose the **Axial SCX24**, a smaller 1/24 scale crawler, because it offers a unique advantage.</p>
+        <p>With a smaller crawler, **your obstacles get bigger and better**, making even small rocks and household objects into challenging courses. Plus, you can **create an exciting crawling course inside your house** using everyday items like books, boxes, and furniture.</p>
+        <p>The Axial SCX24 is a **really nice crawler** that balances affordability, performance, and customization, making it a great choice for both beginners and experienced enthusiasts.</p>
+
+        <h2>Photo of My RC Crawler</h2>
+        <img src="axialscx24.jpg" alt="Axial SCX24 RC Crawler" class="hobby-image">
+
+        <h2>Learn More</h2>
+        <p>You can find more details about the **Axial SCX24** on the official Axial website:  
+            <a href="https://www.axialracing.com/products/scx24" target="_blank" class="hyperlink">Axial SCX24 Official Page</a>
+        </p>
+    </section>
+</body>
+</html>
